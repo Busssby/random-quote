@@ -1,19 +1,21 @@
 # Random Quote
 
+Made by Rezanova Alisa M3120
+
 VS Code extension that shows random motivational quotes for programmers.
 
 ## Features
 
 - Shows random motivational quotes
-- Simple command palette access
-- Boosts coding motivation
+- Can show more than one
+- Inspire you
 
 ## How to Use
 
 1. Press `Ctrl+Shift+P`
 2. Type "Show random quote"
 3. Press `Enter`
-4. Enjoy your random quote!
+4. Press `See more` to see more quotes
 
 ## Commands
 
